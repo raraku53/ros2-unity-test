@@ -29,3 +29,6 @@ __pycache__/
 
 # エディタ別の一時ファイル（例: Emacs, Vim）
 .*.swp
+
+# 外部依存パッケージ（手動クローンまたは vcs import）
+teleop_twist_joy_adv/
