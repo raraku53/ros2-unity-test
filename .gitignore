@@ -1,0 +1,31 @@
+# ビルド生成物
+/build/
+/install/
+/log/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# VSCodeやJetBrainsなどのIDE設定ファイル（任意で追加）
+.vscode/
+.idea/
+
+# rosdepによる自動生成ファイルなど
+*.swp
+*.swo
+
+# colconのメタ情報
+.colcon/
+
+# 任意のワークスペースキャッシュ
+*.egg-info/
+
+# 一時ファイル
+*.bak
+*.tmp
+*.orig
+*~
+
+# エディタ別の一時ファイル（例: Emacs, Vim）
+.*.swp
